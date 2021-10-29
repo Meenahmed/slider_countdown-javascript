@@ -87,7 +87,7 @@ Nikkah countdown
   position: relative;
 }
 .nikkah-img img {
-  width: 33rem;
+  width: 100%;
   height: 20rem;
   object-fit: cover;
 }
