@@ -88,7 +88,7 @@ Nikkah countdown
 }
 .nikkah-img img {
   width: 100%;
-  height: 20rem;
+  height: 15rem;
   object-fit: cover;
 }
 .nikkah-info {
@@ -103,7 +103,7 @@ Nikkah countdown
 .nikkah-date {
   color: var(--clr-grey-1);
   font-weight: bold;
-  font-size: 1.025rem;
+  font-size: 1.2rem;
   word-spacing: var(--spacing);
 }
 .nikkah-quote {
@@ -132,13 +132,11 @@ Nikkah countdown
     height: 26rem;
     object-fit: cover;
   }
-  .nikkah-quote {
-    min-width: 32rem;
-  }
 }
 .d-day {
   display: flex;
   place-content: center;
+  margin-bottom: 1.5rem;
 }
 .d-day-format {
   background: var(--clr-primary-8);
